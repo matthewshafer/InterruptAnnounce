@@ -1,0 +1,7 @@
+## Interface: 40000
+## Title: InterruptAnnounce
+## Notes: Announces interrupts to the raid
+## Author: Matt (Rageagainst of Ner'zhul)
+## Version: 1
+
+InterruptAnnounce.lua
